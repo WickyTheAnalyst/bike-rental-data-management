@@ -2,6 +2,8 @@
 
 This repository contains ccode of `Bike Rental Data Management` project
 
+[**Detailed Project Description & Exection**](https://github.com/WickyTheAnalyst/bike-rental-data-management/blob/main/writeup-details.md)
+
 ## Project Overview
 
 Project to create a relational database with analytics-ready views connecting Citi Bike and weather datasets. The project involved:
