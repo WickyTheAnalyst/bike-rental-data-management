@@ -3,13 +3,15 @@
 The last decade has seen enormous growth in the personal transportation startup industry, including bike and e-bike rental programs in many major cities. The goal of this project is to create a flexible and efficient relational database to store bike rental data, using datasets from Citi Bike and NOAA.
 
 ## Objective
-Project to create a relational database with analytics-ready views connecting Citi Bike and weather datasets. The project involved:
-- Data Cleaning, Exploring and Inspection
-- Developing a relational database structure (RDBMS)
-- Implementing the database in PostgreSQL
-- Data Insertion in Database (using SQLAlchemy and Pandas)
-- developing flexible analytics-ready views on top of the relational database
-- Executing SQL Queries on the implelemted database
+To explore, clean, inspect datasets, create a flexible & efficient relational database with analytics-ready views connecting Citi Bike and weather datasets.
+
+## Stages
+- Stage 1: Data Cleaning, Exploring and Inspection
+- Stage 2: Developing a relational database structure (RDBMS)
+- Stage 3: Implementing the database in PostgreSQL
+- Stage 4: Data Insertion in Database (using SQLAlchemy and Pandas)
+- Stage 5: developing flexible analytics-ready views on top of the relational database
+- Stage 6: Executing SQL Queries on the implelemted database
 
 ## **Stage 1 - Inspecting and Cleaning the Datasets**
 [**Jupyter Notebook on Nbviewer**](https://nbviewer.org/github/WickyTheAnalyst/bike-rental-data-management/blob/e648d07974aa518260b406003c534b2c589df81e/bike-rental-v1.3-final.ipynb)
